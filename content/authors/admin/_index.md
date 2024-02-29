@@ -1,57 +1,56 @@
 ---
-bio: My research interests include comparative political economy, data science and the politics of South Asia.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 education:
   courses:
-  - course: PhD in Government (Political Science)
-    institution: Cornell University
-    year: 2006
-  - course: BA in Political Science and Philosophy
-    institution: John Carroll University
-    year: 1997
+  - course: MSc in Robotics
+      institution: University of Bristol
+      year: 2020
+  - course: BEng in Electronics
+      institution: IIIT Pune
+      year: 2018
     
-email: "ejt@gwu.edu"
+email: "ramakurunishant@gmail.com"
 
 highlight_name: false
 
 interests:
-- Comparative political economy
-- Data science
-- South Asia
-
-organizations:
-- name: The George Washington University
-  url: https://www.gwu.edu/
+- Artificial Intelligence
+- Robotics
+- Multi-agent Modelling
   
-role: Associate Professor of Political Science and International Affairs
+organizations:
+- name: HALCON
+  url: https://halcon.ae/
+  
+role: Robotics Engineer
 
 social:
 - icon: envelope
+    icon_pack: fas
+    link: /#contact
+- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/eteitelbaum
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=x146Ra0AAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=en&user=aIVoEzMAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/eteitelbaum
+  link: https://github.com/Nishant-Ramakuru
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/emmanuel-teitelbaum-75a93b4/
+  link: https://www.linkedin.com/in/nishant-ramakuru-66a600157/
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
+# and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
   
 superuser: true
 
 title: 
 ---
 
-I am an associate professor of political science and international affairs at [The George Washington University](https://www.gwu.edu). My research and writing explore how class conflict and compromise intersect with democracy and development. I also have a strong interest in labor standards and understanding how labor unions, nonprofit organizations, consumers and corporations can help to promote them.    
-
-At GW, I teach courses on comparative political economy, data science and South Asia. I am on faculty in the [Department of Political Science](https://politicalscience.columbian.gwu.edu/) and the [Elliott School of International Affairs](https://elliott.gwu.edu/) and am affiliated with the [Sigur Center for Asian Studies](https://sigur.elliott.gwu.edu/) as well as the Institute for [International Economic Policy](https://iiep.gwu.edu/). 
-
-I also serve as one of the managing editors for the [Journal of Development Studies](https://www.tandfonline.com/toc/fjds20/current).
+I’m a Robotics Engineer working at HALCON in the Robotics & Automation department. I hold a MSc in Robotics and Autonomous Systems from University of Bristol, where I worked on multi-agent systems, game theory, evolutionary algorithms and artificail intelligence. Prior to this I worked as a Machine Learning Engineer at ALGO8 after passing out from the International Institute Of Information Technology, Pune, with a BEng in electronics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
