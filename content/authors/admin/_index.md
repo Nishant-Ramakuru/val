@@ -4,11 +4,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 education:
   courses:
   - course: MSc in Robotics
-      institution: University of Bristol
-      year: 2020
+    institution: University of Bristol
+    year: 2020
   - course: BEng in Electronics
-      institution: IIIT Pune
-      year: 2018
+    institution: IIIT Pune
+    year: 2018
     
 email: "ramakurunishant@gmail.com"
 
