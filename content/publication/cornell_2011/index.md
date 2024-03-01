@@ -1,5 +1,5 @@
 ---
-title: "Mobilizing Restraint: Democracy and Industrial Conflict in Post-Reform South Asia"
+title: "Multi-agent modeling"
 date: 2011-01-01
 publishDate: 2021-01-05T20:13:52.632058Z
 authors: ["Emmanuel Teitelbaum"]
