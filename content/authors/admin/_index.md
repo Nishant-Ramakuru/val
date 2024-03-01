@@ -49,7 +49,9 @@ superuser: true
 
 title: 
 ---
+Greetings to my website Folks!
 
-I’m a Robotics Engineer working at HALCON in the Robotics & Automation department. I hold a MSc in Robotics and Autonomous Systems from University of Bristol, where I worked on multi-agent systems, game theory, evolutionary algorithms and artificail intelligence. Prior to this I worked as a Machine Learning Engineer at ALGO8 after passing out from the International Institute Of Information Technology, Pune, with a BEng in electronics.
 
+I’m a Dynamic Robotics Graduate with a strong foundation in AI and a proven track record in designing and implementing advanced robotic systems. Possessing a solid research background, adept at merging AI techniques with robotics to enhance automation processes. Currently working at [HALCON](https://halcon.ae/) in the Robotics & Automation department as a Robotics & AI Engineer. 
 
+I hold a MSc in Robotics and Autonomous Systems from [University of Bristol, UK](https://www.bristol.ac.uk/), where I published my dissertation, [Designing Considerate Swarms](https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901) in MIT press, at the ALIFE 2021. Prior to this I worked as a Machine Learning Engineer at [ALGO8](https://algo8.ai/) after passing out from the International Institute Of Information Technology, Pune, with a BEng in Electronics. 
