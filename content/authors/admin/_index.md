@@ -53,4 +53,4 @@ title:
 I’m a Robotics Engineer working at HALCON in the Robotics & Automation department. I hold a MSc in Robotics and Autonomous Systems from University of Bristol, where I worked on multi-agent systems, game theory, evolutionary algorithms and artificail intelligence. Prior to this I worked as a Machine Learning Engineer at ALGO8 after passing out from the International Institute Of Information Technology, Pune, with a BEng in electronics.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/teitelbaum_cv.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
