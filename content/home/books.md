@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: false
@@ -11,7 +11,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 20
 
-title: Book
+title: Blog
 subtitle: ""
 
 content:
