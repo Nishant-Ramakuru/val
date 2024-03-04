@@ -5,11 +5,11 @@ image:
   caption: Photo by <a href="https://www.semanticscholar.org/paper/Designing-Considerate-Swarms-Ramakuru-Stillman/eba760385b67bb97c554a7b0e1bd51a965d2c274/figure/2">Unsplash</a>
   focal_point: Smart
 links:
-- name: HPSD Download
+- name: Download PDF
   url: HPSD.xlsx
-- name: Variable Abbreviations
-  url: HPSD_variables.pdf
-- name: Coding Sheet
+- name: Research Paper
+  url: (https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901)
+- name: Citation
   url: HPSD_coding_sheet.pdf
 summary: Evolving considerate behaviour in swarms using Bayesian conditioning in a Game-Theoretic setting. 
 tags:
