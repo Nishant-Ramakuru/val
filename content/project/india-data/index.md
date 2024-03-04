@@ -6,8 +6,8 @@ image:
   focal_point: Smart
 summary: A repository for state and district-level data relating to the political economy of India.
 tags:
-- India, Political Economy
-title: India Political Economy Data Repository
+- Robotic systems, Odometry
+title: Romi, the line following robot
 ---
 
 Data data everywhere and not a byte to analyze! 
