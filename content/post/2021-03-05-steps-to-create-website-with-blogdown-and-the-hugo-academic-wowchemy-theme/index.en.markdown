@@ -1,5 +1,5 @@
 ---
-title: Steps to create website with blogdown and the Hugo Academic (Wowchemy) theme
+title: Advanced Control and Dynamics, Exploring Spring-Damper Systems
 author: Emmanuel Teitelbaum
 date: '2021-03-05'
 slug: create-a-website-with-blogdown-and-hugo
@@ -22,34 +22,19 @@ projects: []
 draft: FALSE
 ---
 
-These are the steps that I took to set up my website using blogdown and the [Hugo Academic (Wochemy)](https://wowchemy.com/) theme. I also did a little ["how to" session](https://www.youtube.com/watch?v=BHpkLJieXPE) with some GW political science graduate students where we worked through these steps and got everyone started with a blogdown site. Many of the steps recounted here are based on what I learned from [this super-helpful post](https://alison.rbind.io/blog/2020-12-new-year-new-blogdown/) by Alison Hill. 
 
-1. Open a GitHub account and set up a personal access token (PAT) in R using `usethis::create_github_token()`. Consult [Happy Git and Git Hub for the UseR](https://happygitwithr.com/) for more details. 
-
-2. Create a [Github](https://github.com/) repository. Initialize the repository with a `README` but don't worry about adding `.gitignore` or a license. 
-
-3. Go to your new repository and click on the green button that says **Code**. Choose HTTPS (the default) and click on the clipboard to copy the link. 
-
-4. Open RStudio. Navigate to `File > New Project > Version Control > Git` and paste the URL from step 3 into the **Repository URL:** field. Browse to a location where you want to store the project and click **Create Project**. 
-
-5. Install blogdown (`install.packages("blogdown")`).
-
-6. Create the site: 
-
-```
-library(blogdown)
-new_site(theme = "wowchemy/starter-academic"
-```
-
-7. Select `y` to let blogdown star the server and get a local preview. In the future, you can use `blogdown::stop_server` to stop the server and `blogdown::serve_site` to restart it.  
-
-8. Create content. 
-
-9. Check content using `blogdown::check_content()` and fix any issues. 
-
-10. Commit changes with `usethis::use_git()` and push them to GitHub using the little green arrow in RStudio's Git window.
-
-11. Publish the site to Netlify. Sign up using your GitHub account, then log in and select `New site from Git > Continuous Deployment: GitHub`. Select the repository with your site and deploy it!
+A practical engineering plant which would feature similar dynamical behaviour  to the theoretical dynamics given in the plant description below represents that of 
+spring damper system.
+Y(s)
+𝑈(𝑠)
+=
+1
+𝑠
+2 + 0.6s + 4
+The mass spring damper system is used for the main purpose of producing 
+oscillations based on some linear input. This system can be used in situations
+where oscillations are desired such as simulating earthquakes or flight simulation 
+models or to reduce them such as suspension systems of automobiles etc.
 
 <script src="https://utteranc.es/client.js"
         repo="eteitelbaum/academic-website"
