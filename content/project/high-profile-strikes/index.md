@@ -8,7 +8,7 @@ links:
 - name: Download PDF
   url: HPSD.xlsx
 - name: Research Paper
-  url: (https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901)
+  url: HPSD.xlsx
 - name: Citation
   url: HPSD_coding_sheet.pdf
 summary: Evolving considerate behaviour in swarms using Bayesian conditioning in a Game-Theoretic setting. 
