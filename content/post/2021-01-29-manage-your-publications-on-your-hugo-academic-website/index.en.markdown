@@ -1,5 +1,5 @@
 ---
-title: Decoding Collective Cognition: Exploring the Intricacies of Swarm Intelligence in Complex Systems.
+title: Decoding Collective Cognition Exploring the Intricacies of Swarm Intelligence in Complex Systems.
 author: Nishant Ramakuru
 date: '2019-09-01'
 slug: managing-pubs-Academic-website
