@@ -1,8 +1,8 @@
 ---
-date: "2021-05-19T00:00:00Z"
+date: "2020-12-01T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by <a href="https://unsplash.com/@kenwhytock?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ken  Whytock</a> on <a href="https://unsplash.com/s/photos/union-protest-strike?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: Photo by <a href="https://www.semanticscholar.org/paper/Designing-Considerate-Swarms-Ramakuru-Stillman/eba760385b67bb97c554a7b0e1bd51a965d2c274/figure/2">Unsplash</a>
   focal_point: Smart
 links:
 - name: HPSD Download
@@ -11,13 +11,13 @@ links:
   url: HPSD_variables.pdf
 - name: Coding Sheet
   url: HPSD_coding_sheet.pdf
-summary: A detailed coding of strike activity reported in major news outlets.
+summary: Evolving considerate behaviour in swarms using Bayesian conditioning in a Game-Theoretic setting. 
 tags:
-- Strikes, Industrial Relations
-title: High Profile Strikes Dataset
+- Swarms, Game Theory, Considerate Behaviour, Multi-agent systems, Evacuation scenario
+title: Designing Considerate Swarms
 ---
 
-The High Profile Strikes Dataset (HPSD) is a coding of press reports catalogued in the “World Publications” section of the Nexis database pertaining to economic and political trade union protest. In the original dataset, the stories were identified by using broade search terms like "labor," "strikes," and "industrial disputes" and included protest from non-OECD countries for the period 1980 to 2005. 
+In the past few years, there has been an increased interest in designing robotic systems that are both fault-tolerant and flexible. However, many applications for these multi-agent systems are highly unpredictable due to the interaction between individual autonomous agents. Swarms of autonomous agents acting towards a common purpose have been shown to perform well when the individual agents are pre-designed to exhibit elements of cooperation and collaboration. Yet many existing models do not explicitly consider how these swarms will coordinate with each other or with other agents from outside the swarm.
 
-The new version of the dataset builds on the earlier version while also expanding the number of sources (e.g. moving beyond just Nexis). I am also looking for ways to make the database open-source, i.e. to allow individual researchers to contribute codings of strike events and to suggest corrections to earlier codings.     
+In this paper, we adopt a game-theoretic approach to design robot swarms that explicitly considers the behaviour and preferences of other agents on their desired actions. We show that, by including conditionalized actions, agents actively avoid inconveniencing others. In order to demonstrate our considerate swarms, we run simulations of various evacuation scenarios. We find that our swarm outperforms those that use conventional game-theoretic models, evacuating the rooms both faster and more efficiently, whilst also displaying interesting social behaviours.
 
