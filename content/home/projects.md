@@ -11,7 +11,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 70
 
-title: Projects
+title: Academic Projects
+ Greetings Folks! I've exclusively showcased my academic projects. For confidentiality reasons, details about my corporate projects are omitted, however, can be divulged upon request and ensuring that sensitive information is handled with discretion."
 subtitle: ''
 
 content:
