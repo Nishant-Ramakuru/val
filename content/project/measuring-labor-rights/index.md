@@ -2,12 +2,14 @@
 date: "2021-05-19T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by <a href="https://unsplash.com/@riolec?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rio Lecatompessy</a> on <a href="https://unsplash.com/s/photos/factory-workers-human?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  caption: Parallel Robot Kinematics
   focal_point: Smart
 links:
+- name: Download PDF
+  url: Robotics_Fundamentals.pdf
 summary: An effort to improve cross-national measures of labor standards.
 tags:
-- Labor Rights, Labor Standards
+- Robot Kinematics, Robotic Arm
 title: Serial and Parallel Robot Kinematics
 ---
 
