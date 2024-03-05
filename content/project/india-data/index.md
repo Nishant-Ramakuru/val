@@ -4,10 +4,10 @@ external_link: ""
 image:
   caption: Logic Flowchart
   focal_point: Smart
-summary: A system architechture repository for functioning, path planning and odometry. 
+summary: A system architechture repository for functioning, path planning & odometry. 
 tags:
 - Robotic systems, Odometry
-title: Romi: The line following Robot
+title: Romi (The line following Robot)
 ---
 
 The flow chart provided in Figure 1 acts as a visual representation of the decision procedure which was designed and then implemented in code, allowing the Romi to complete the line following task. The procedure of the system can be easily represented by the various ordered states of operation that the Romi can be in (State 1 through State 4). This is an example of a Finite State Machine (FSM) and it's implementation will be explained further towards the end of this section. On boot the Romi starts up and proceeds into State 1. This results in the Romi undergoing a reset procedure, displaying "RESET" to the user in the Serial monitor and initialises variables. After completion the Romi the begins the Calibration procedure. This is important as it allows for a baseline background colour (IR intensity value) to be obtained which can be used to subtract from the read in raw value of the Romi report 1 sensors. The hope of this is that the white background of the track will now be re scaled such that it reads an approximate value of 0 across the whole background of the track and can act as the baseline from which calculations relating to the line can be made. 
