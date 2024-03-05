@@ -8,9 +8,9 @@ links:
 - name: Download PDF
   url: Designing_Considerate_Swarms.pdf
 - name: Research Paper
-  url: HPSD.xlsx
+  url: href="https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901"
 - name: Citation
-  url: HPSD_coding_sheet.pdf
+  url: citation.bibtex
 summary: Evolving considerate behaviour in swarms using Bayesian conditioning in a Game-Theoretic setting. 
 tags:
 - Swarms, Game Theory, Considerate Behaviour, Multi-agent systems, Evacuation scenario
