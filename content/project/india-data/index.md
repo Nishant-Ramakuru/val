@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: Logic Flowchart
   focal_point: Smart
-summary: A system architechture repository for functioning, path planning & odometry. 
+summary: A system architechture repository for functioning, path planning and odometry. 
 tags:
 - Robotic systems, Odometry
 title: Romi: The line following Robot
