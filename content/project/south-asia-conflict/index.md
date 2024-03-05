@@ -1,14 +1,17 @@
 ---
-date: "2021-03-24T00:00:00Z"
+date: "2018-05-01T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by <a href="https://platypus1917.org/2010/08/06/the-maoist-insurgency-in-india-end-of-the-road-for-indian-stalinism/">Platypus 1917</a> 
+  caption: 3D printing Design
   focal_point: Smart
 links:
-summary: Who are the primary challengers to state authority in South Asia? 
+
+summary: The 8 legged spiderbot that solves Mazes using SLAM
 tags:
-- India, Maoist, Naxalite
-title: Conflict in South Asia
+- Spiderbot, Dexteriy, Markov Decision Process, Tremaux algorithm 
+title: ASIMOV
 ---
 
-This project aims to provide a detailed coding of violent events associated with South Asia's many ongoing insurgencies. The primary source of data for these codings is the [South Asia Terrorism Portal](https://www.satp.org/). So far, my team has coded more than ten thousand events related to India's Maoist Insurgency occurring between 2005 and 2017. The next step will be to extend the coding of Maoist-related events to the present and then start coding events for other conflicts.  
+Many inventions came up in the history of science and technology. Among them, the invention of robots is drastically emerging. Speed and economic advantages in daily life has increased the use of robots. A robot is an electro-mechanical system which can do autonomous or pre-programmed tasks. When wheels have dominated the robot world and seem extremely popular, innovators are struggling to find a decent replacement for wheels which would work in any kind of an environment. Adding legs to robots would be a solution for robots which runs on unprepared terrain. Now arises the problem of stability. 
+
+To overcome this, we propose a self-adaptive smart spider robot that functions without human interfacing. The legged robot inspired by spider is developed with the control mechanism and machine learning algorithms which results in the execution of various walking behaviour by adapting itself. The effectiveness of the robot is measured according to the performance on rough terrain through six legs. Control of robot is provided via communication port on computer. Functional algorithms are built for flexible motion against different conditions such as rough terrain, pit. Due to machine learning there will be no bounds for the robot in the near future it will learn to adapt as well as grow mentally as time goes by
