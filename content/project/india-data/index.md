@@ -4,6 +4,10 @@ external_link: ""
 image:
   caption: Logic Flowchart
   focal_point: Smart
+
+links:
+- name: Download PDF
+  url: Robotic_Systems.pdf
 summary: A system architechture repository for functioning, path planning & odometry. 
 tags:
 - Robotic systems, Odometry
