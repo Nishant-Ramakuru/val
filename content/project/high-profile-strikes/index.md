@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 links:
 - name: Download PDF
-  url: HPSD.xlsx
+  url: Designing_Considerate_Swarms.pdf
 - name: Research Paper
   url: HPSD.xlsx
 - name: Citation
