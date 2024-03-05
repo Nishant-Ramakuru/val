@@ -2,7 +2,7 @@
 date: "2020-12-01T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by <a href="https://www.semanticscholar.org/paper/Designing-Considerate-Swarms-Ramakuru-Stillman/eba760385b67bb97c554a7b0e1bd51a965d2c274/figure/2">Unsplash</a>
+  caption: Tradeoff Competition
   focal_point: Smart
 links:
 - name: Download PDF
