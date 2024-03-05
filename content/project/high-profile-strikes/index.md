@@ -8,7 +8,7 @@ links:
 - name: Download PDF
   url: Designing_Considerate_Swarms.pdf
 - name: Research Paper
-  url: href="https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901"
+  url: https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901
 - name: Citation
   url: citation.bibtex
 summary: Evolving considerate behaviour in swarms using Bayesian conditioning in a Game-Theoretic setting. 
