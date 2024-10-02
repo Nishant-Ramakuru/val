@@ -20,10 +20,10 @@ interests:
 - Multi-agent Modelling
   
 organizations:
-- name: HALCON
-  url: https://halcon.ae/
+- name: MILANION
+  url: https://milaniontech.com/
   
-role: Robotics Engineer
+role: Senior Autonomous Robotics Engineer
 
 social:
 - icon: envelope
@@ -52,6 +52,6 @@ title:
 Greetings to my website Folks!
 
 
-I’m a Dynamic Robotics Graduate with a cross disciplinary background in Computer Science, Electrtonics and Mechanical Designing, with a focus on AI in Robotics, and a proven track record of 4+ years of industry experience in designing and implementing advanced robotic systems. Possessing a solid research background, adept at merging AI techniques with robotics to enhance automation processes. Currently working at [HALCON](https://halcon.ae/) in the Robotics & Automation department as a Robotics & AI Engineer. 
+I’m a Dynamic Robotics Graduate with a cross disciplinary background in Computer Science, Electrtonics and Mechanical Designing, with a focus on AI in Robotics, and a proven track record of 5+ years of industry experience in designing and implementing advanced robotic systems. Possessing a solid research background, adept at merging AI techniques with robotics to enhance automation processes. Currently working at [MILANION](https://milaniontech.com/) as a Senior Autonomous Robotics Engineer. 
 
-I hold a MSc in Robotics and Autonomous Systems from [University of Bristol, UK](https://www.bristol.ac.uk/), where I published my dissertation, [Designing Considerate Swarms](https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901) in MIT press, at the ALIFE 2021. Prior to this I worked as a Machine Learning Engineer at [ALGO8](https://algo8.ai/) after passing out from the International Institute Of Information Technology, Pune, with a BEng in Electronics. 
+I hold a MSc in Robotics and Autonomous Systems from [University of Bristol, UK](https://www.bristol.ac.uk/), where I published my dissertation, [Designing Considerate Swarms](https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901) in MIT press, at the ALIFE 2021. Prior to this I worked as a Robotics Engineer at [HALCON](https://halcon.ae/) and as a Machine Learning Engineer at [ALGO8](https://algo8.ai/) after passing out from the International Institute Of Information Technology, Pune, with a BEng in Electronics. 
