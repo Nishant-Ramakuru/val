@@ -5,17 +5,7 @@
 
 
 
-[[main]]
-  name = "Blog"
-  url = "post/"
-  weight = 30
 
-
-
-[[main]]
-  name = "Projects"
-  url = "project/"
-  weight = 50
   
 [[main]]
   name = "Contact"
