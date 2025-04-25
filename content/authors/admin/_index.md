@@ -3,27 +3,27 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 education:
   courses:
-  - course: MSc in Robotics
-    institution: University of Bristol, UK
+  - course: M.A. in Journalism
+    institution: Kuban State University, Russia
     year: 2020
-  - course: BEng in Electronics
-    institution: International Institute of Information Technology, Pune, India
-    year: 2018
+  - course: B.A. in Applied Linguistics
+    institution: Kuban State University, Russia
+    year: 2017
     
-email: "ramakurunishant@gmail.com"
+email: "thisisvaleriabakurova@gmail.com"
 
 highlight_name: false
 
 interests:
-- Artificial Intelligence
-- Robotics
-- Multi-agent Modelling
+- Integrated Communications & PR Strategy
+- Social Media & Content Direction
+- Brand Development & Tone of Voice Creation
   
 organizations:
-- name: MILANION
-  url: https://milaniontech.com/
+- name: ADAM Global
+  url: https://www.adamglobal.com/
   
-role: Senior Autonomous Robotics Engineer
+role: Client Relationship Manager
 
 social:
 - icon: envelope
@@ -31,13 +31,13 @@ social:
   link: /#contact
 - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?hl=en&user=aIVoEzMAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Nishant-Ramakuru
+  link: https://inter.kubsu.ru/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/Valeria-Bakurova
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/nishant-ramakuru-66a600157/
+  link: 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
@@ -52,6 +52,5 @@ title:
 Greetings to my website Folks!
 
 
-I’m a Dynamic Robotics Graduate with a cross disciplinary background in Computer Science, Electrtonics and Mechanical Designing, with a focus on AI in Robotics, and a proven track record of 5+ years of industry experience in designing and implementing advanced robotic systems. Possessing a solid research background, adept at merging AI techniques with robotics to enhance automation processes. Currently working at [MILANION](https://milaniontech.com/) as a Senior Autonomous Robotics Engineer. 
+Communications & Brand Experience Specialist blending strategic messaging, content creation, event coordination, and client relationship management. Known for bringing creative chaos into structure — and making brands feel human, magnetic, and unforgettable.
 
-I hold a MSc in Robotics and Autonomous Systems from [University of Bristol, UK](https://www.bristol.ac.uk/), where I published my dissertation, [Designing Considerate Swarms](https://direct.mit.edu/isal/proceedings/isal2021/33/86/102901) in MIT press, at the ALIFE 2021. Prior to this I worked as a Robotics Engineer at [HALCON](https://halcon.ae/) and as a Machine Learning Engineer at [ALGO8](https://algo8.ai/) after passing out from the International Institute Of Information Technology, Pune, with a BEng in Electronics. 
